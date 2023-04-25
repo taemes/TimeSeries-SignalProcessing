@@ -1,6 +1,4 @@
 
-# https://coding-yoon.tistory.com/131 #
-
 import os
 import math
 import time
